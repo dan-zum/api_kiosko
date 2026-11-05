@@ -2,7 +2,7 @@
 
 API REST en Laravel para una aplicación de autoservicio de pedidos de comida. Gestiona la autenticación de usuarios, el catálogo de productos por categoría y la creación y administración de pedidos.
 
-Este repositorio contiene el **backend**. El frontend en React está en [kiosko-frontend](https://github.com/TU-USUARIO/kiosko-frontend).
+Este repositorio contiene el **backend**. El frontend en React está en [kiosko-frontend](https://github.com/dan-zum/kiosko-frontend).
 
 ## Tecnologías
 
@@ -27,7 +27,7 @@ La estructura se crea con **migraciones** y los datos iniciales (categorías y p
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/kiosko-api.git
+   git clone https://github.com/dan-zum/api_kiosko
    cd kiosko-api
    ```
 2. Instala las dependencias:
